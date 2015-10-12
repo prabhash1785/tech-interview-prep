@@ -1,0 +1,4 @@
+Tree:
+- Recursively find a node in Binary Search Tree.
+- Print a Binary Tree nodes in Spiral form, i.e. print level by level but after each level, change direction from left to right and then
+right to left.
