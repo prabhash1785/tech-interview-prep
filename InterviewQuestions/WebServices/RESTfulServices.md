@@ -1,2 +1,3 @@
 - What is RESTful architecture?
+- Difference between POST and PUT in REST?
 - Difference between REST and SOAP?
