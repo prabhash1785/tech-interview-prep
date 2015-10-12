@@ -1,0 +1,2 @@
+- What is RESTful architecture?
+- Difference between REST and SOAP?
