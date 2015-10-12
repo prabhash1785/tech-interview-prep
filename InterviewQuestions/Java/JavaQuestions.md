@@ -1,5 +1,6 @@
 <b>Concurrency:</b>
 - Lifecycle of Thread
+- What is Dealock? How deadlock occurs? How do you prevent deadlock?
 
 
 <b>Collections:</b>
