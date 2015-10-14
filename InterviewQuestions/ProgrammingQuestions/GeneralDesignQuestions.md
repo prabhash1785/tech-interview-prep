@@ -1,0 +1,4 @@
+- Open-Close principle
+- What is SOLID Principle in Object Oriented programming?
+- Dependency Injection with one of it's application
+- Composition vs Inheritance? Which is preferred?
